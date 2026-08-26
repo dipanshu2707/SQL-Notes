@@ -14,7 +14,5 @@ INSERT INTO student VALUES(4,"ANMOL",25);
 INSERT INTO student VALUES(5,"MANILAL",22);
 INSERT INTO student VALUES(6,"AMIT",19);
 insert into student values(7,"Aimam",27);
-
-
 SELECT * FROM student;
 
